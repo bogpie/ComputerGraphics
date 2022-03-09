@@ -1,6 +1,6 @@
 # Computer Graphics
 
-Assignments and homework for Computer Graphics course.
+Assignments and homework for Computer Graphics course, done in Open GL w/ C++.
 
 Relevant projects:
 
