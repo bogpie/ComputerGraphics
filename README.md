@@ -1,4 +1,4 @@
-# ComputerGraphics
+# Computer Graphics
 
 Assignments and homework for Computer Graphics course.
 
