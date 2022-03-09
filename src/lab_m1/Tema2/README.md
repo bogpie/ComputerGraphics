@@ -1,6 +1,6 @@
 # Survival Maze
 
-3D game in which the player has to escape an obstacle-filled maze, while enemies chase them.
+3D game made in Open GL w/ C++, in which the player has to escape an obstacle-filled maze, while enemies chase them.
 Included functionality
 - HUD for timer and health bar
 - Automatically generated maze, with a randomized layout created using DFS
