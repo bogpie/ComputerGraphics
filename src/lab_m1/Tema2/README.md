@@ -1,4 +1,5 @@
-#Survival Maze
+# Survival Maze
+
 3D game in which the player has to escape an obstacle-filled maze, while enemies chase them.
 Included functionality
 - HUD for timer and health bar
